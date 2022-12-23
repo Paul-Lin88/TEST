@@ -6,6 +6,7 @@ import android.os.Bundle;
 
 int a = 454545;
 //nice
+// 沒戲
 
 public class MainActivity extends AppCompatActivity {
 
