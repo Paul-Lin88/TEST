@@ -8,6 +8,7 @@ int a = 454545;
 //good
 int b = 87;
 // 有戲
+int c = 10;
 
 public class MainActivity extends AppCompatActivity {
 
