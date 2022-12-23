@@ -7,6 +7,8 @@ import android.os.Bundle;
 int a = 454545;
 //good
 int b = 87;
+// 有戲
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
